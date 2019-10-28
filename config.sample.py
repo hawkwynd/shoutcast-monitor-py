@@ -7,5 +7,6 @@ sc = dict(
     path = '/admin.cgi',
     passw = '&pass=yourAdminPassword',
     sid  = '?sid=1',
-    mode = '&mode=viewjson'
+    mode = '&mode=viewjson',
+    station = 'My Radio Station'
 )
